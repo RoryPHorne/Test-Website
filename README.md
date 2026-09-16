@@ -10,17 +10,8 @@ Frontend Repo: https://github.com/username/frontend-repo
 ## Table of Contents
 
 - [Overview](#overview)
-- [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Architecture](#architecture)
-- [Database Design](#database-design)
-- [API Endpoints](#api-endpoints)
-- [Installation](#installation)
-- [Environment Variables](#environment-variables)
-- [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Deployment](#deployment)
-- [Future Improvements](#future-improvements)
 - [Credits](#credits)
 - [License](#license)
 
