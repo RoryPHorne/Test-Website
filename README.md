@@ -39,7 +39,7 @@ This is a practical project to implement new skills and best practices.
 
 ## Screenshots
 
-![Screenshot of webpage Home screen}
+![Screenshot of webpage Home screen]
 (assets/indexScreenshot.png)
 
 ## Credits
