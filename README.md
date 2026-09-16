@@ -39,12 +39,7 @@ This is a practical project to implement new skills and best practices.
 
 ## Screenshots
 
-```
-assets/
- ├── home.png
- ├── dashboard.png
- └── login.png
-```
+assets/indexScreenshot.png
 
 ## Credits
 
